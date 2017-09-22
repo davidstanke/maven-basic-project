@@ -1,0 +1,10 @@
+modelVersion: 4.0.0
+groupId: com.davidstanke.app
+artifactId: my-app
+version: 1.0-SNAPSHOT
+packaging: jar
+name: my-app
+url: http://maven.apache.org
+dependencies:
+- {groupId: junit, artifactId: junit, version: 3.8.1, scope: test}
+- {groupId: com.google.protobuf, artifactId: protobuf-java, version: 3.4.0}
