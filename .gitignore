@@ -1,1 +1,9 @@
 .DS_Store
+
+#BAZEL OUTPUTS
+/.bazelrc
+/bazel-*
+
+#MAVEN OUTPUTS
+log/
+target
